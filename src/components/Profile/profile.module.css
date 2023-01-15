@@ -1,5 +1,6 @@
 .profile {
     width: 280px;
+    margin-top: 25px;
     margin-right: auto;
     margin-left: auto;
     background-color: rgba(212, 221, 213, 0.3);
@@ -45,6 +46,7 @@
 }
 
 .stats {
+    padding: 10px;
     display: flex;
     justify-content: center;
     gap: 30px;
